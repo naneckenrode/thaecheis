@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ohghahveil.joserodolfo.com/sitemap.xml
